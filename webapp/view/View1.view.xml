@@ -12,6 +12,7 @@
                     <Input id="id1" value=""/>
                     <Input id="id2"/>
                     <Button text="Submit" press="Create"/>
+                    <Button text="Button2" />
                     </content>
 				</Page>
 			</pages>
