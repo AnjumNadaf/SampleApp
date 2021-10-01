@@ -17,6 +17,9 @@ sap.ui.define([
                sap.m.MessageToast.show(id1 + " " + id2);
                         
 
+            },
+            open:function(){
+                
             }
 		});
 	});
